@@ -13,8 +13,8 @@ Linux/MacOS для этого достаточно запустить Терми
 Babun                        (осторожно, она весит 2Гб — зато полностью эмулирует работу в командной
 строке Linux). 
 4. Настройка git. Нам будет достаточно только задать имя и email командами: 
-    git config ­­global user.name "Oleg Yasnev" 
-    git config ­­global user.email oyasnev@gmail.com
+    git config ­­global user.name "Eugene" 
+    git config ­­global user.email zh-gen@mail.ru
 (вы, естественно, подставляете свои имя и email) 
 Далее мы изучим основные операции на тестовом репозитории.                       Для начала нам
 понадобится завести репозиторий на GitHub. Я буду использо                       вать свой аккаунт (oyasnev),
