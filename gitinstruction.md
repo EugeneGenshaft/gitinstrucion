@@ -28,7 +28,7 @@ Babun                        (осторожно, она весит 2Гб — з
 ● оставляем выбранным пункт "               Public" и проставляем флажок "Initialize this repository      
 with a README" 
 Нажимаем кнопку "     Create repository". Репозиторий создан! Теперь он доступен по адресу                
-https://github.com/oyasnev/test 
+ https://github.com/EugeneGenshaft/gitinstrucion.git
 Репозиторий, находящийся на GitHub, мы будем называть                       главным. При работе с
 научными проектами главный репозиторий уже будет создан руководителями. 
 Базовые операции 
